@@ -2,11 +2,11 @@
     "home": [
         {
             "id": 1,
-            "src": "https://theme.hstatic.net/1000333436/1000696015/14/slideshow_1.jpg?v=631",
+            "src": "https://images.pexels.com/photos/307006/pexels-photo-307006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "alt": "first slide",
             "caption": {
-                "title": "Đẳng cấp quý ông",
-                "content": "Sản phẩm hàng đầu"
+                "title": "Mùa hè rực rỡ",
+                "content": "Best seller mùa hè"
             }
         },
         {
@@ -14,8 +14,8 @@
             "src": "https://bizweb.dktcdn.net/100/305/277/themes/756519/assets/banner1.jpg?1633151213550",
             "alt": "second slide1",
             "caption": {
-                "title": "Lựa chọn tốt nhất",
-                "content": "Hàng mới về"
+                "title": "Summer haul sale off",
+                "content": "up to 69%"
             }
         },
         {

@@ -13,8 +13,13 @@
   flex-shrink: 0;
 }
 /* Body */
+@font-face {
+  font-family: BeVietNamPro_Bold;
+  src: url('../assets/fonts/BeVietnamPro-Bold.ttf');
+}
+
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "BeVietNamPro_Bold";
   overflow-x: hidden;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
