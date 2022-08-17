@@ -19,6 +19,7 @@ const About = () => {
   return (
     <>
       <Banner datas={dummyCarouseAbout.about} />
+
       <div className={styles.bestFeatures}>
         <Container>
           <Row className={styles.pd60}>
@@ -27,7 +28,7 @@ const About = () => {
             <Col className={commonStyle.col6}>
               <Img
                 className={styles.bestFeaturesImg}
-                src="https://bazaarvietnam.vn/wp-content/uploads/2018/11/retro-look-phong-cach-retro-qua-cac-thap-nien-00-thumb.jpg"
+                src="https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 alt="abc"
               />
             </Col>
@@ -36,7 +37,7 @@ const About = () => {
                 <h4>Chúng tôi là ai & chúng tôi làm gì?</h4>
                 <p className={commonStyle.p}>
                   Được hình thành trong thời đại 4.0, 
-                  VH STORE áp dụng sức mạnh của công nghệ vào thời trang để đưa ra 
+                  DTT STORE áp dụng sức mạnh của công nghệ vào thời trang để đưa ra 
                   Giải pháp mua sắm đồ cơ bản cho nam giới với mô hình tiện lợi hơn, 
                   tiết kiệm hơn - khách hàng có thể mua cả tủ đồ đảm bảo chất lượng, 
                   giá tốt, giao hàng nhanh chóng, và dịch vụ chăm sóc vượt trội.
@@ -98,10 +99,9 @@ const About = () => {
                   </Link>
                 </div>
                 <div className={styles.downContenttent}>
-                  <h4>Product Management</h4>
+                  <h4>Cam kết về chất lượng</h4>
                   <p className={commonStyle.p}>
-                    Lorem ipsum dolor sit amet, consectetur an adipisicing elit.
-                    Itaque, corporis nulla at quia quaerat.
+                    Các sản phẩm được nhập khẩu chính hãng và có nguồn gốc rõ ràng
                   </p>
                   <Link to="/" class="filled-button">
                     Read More
@@ -117,10 +117,9 @@ const About = () => {
                   </Link>
                 </div>
                 <div className={styles.downContenttent}>
-                  <h4>Product Management</h4>
+                  <h4>Chính sách đổi trả</h4>
                   <p className={commonStyle.p}>
-                    Lorem ipsum dolor sit amet, consectetur an adipisicing elit.
-                    Itaque, corporis nulla at quia quaerat.
+                    Nhằm đặt trải nghiệm mua hàng của quý khách lên hàng đầu, chúng tôi sãn sàng đổi trả sản phẩm lỗi, khôngg vừa kích thước trong vòng 30 ngày
                   </p>
                   <Link to="/" class="filled-button">
                     Read More
@@ -136,10 +135,9 @@ const About = () => {
                   </Link>
                 </div>
                 <div className={styles.downContenttent}>
-                  <h4>Product Management</h4>
+                  <h4>Chính sách giao hàng</h4>
                   <p className={commonStyle.p}>
-                    Lorem ipsum dolor sit amet, consectetur an adipisicing elit.
-                    Itaque, corporis nulla at quia quaerat.
+                    Giao hàng toàn quốc với mức phí vận chuyển ưu đãi
                   </p>
                   <Link to="/" class="filled-button">
                     Read More

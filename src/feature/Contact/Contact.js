@@ -20,6 +20,7 @@ const Contact = () => {
   return (
     <>
       <Banner datas={dummyCarouselContact.contact} />
+      
       <div className={styles.findUs}>
         <Container>
           <Row>
@@ -39,16 +40,16 @@ const Contact = () => {
               <div className={styles.leftContent}>
                 <h4>Văn phòng của chúng tôi</h4>
                 <p className={commonStyle.p}>
-                  Thương hiệu thời trang nam VH Store được thành lập từ tháng 1
+                  Thương hiệu thời trang nam DTT Store được thành lập từ tháng 1
                   năm 2021, là thương hiệu thời trang uy tín hàng đầu tại Việt
                   Nam dành riêng cho phái mạnh.
                   <br />
                   <br />
-                  VH Store chuyên cung cấp vest nam, phụ kiện, quần âu,... đa
-                  dạng mẫu mã cho nam giới. Những mẫu áo quần nam của VH Store
+                  DTT Store chuyên cung cấp vest nam, phụ kiện, quần âu,... đa
+                  dạng mẫu mã cho nam giới. Những mẫu áo quần nam của DTT Store
                   thể hiện sự tinh tế, lịch lãm và luôn là những mẫu mới nhất
-                  của thị trường. Hiện nay VH Store có rất nhiều cơ sở trên toàn
-                  quốc hoặc bạn có thể đặt hàng online qua website của VH Store
+                  của thị trường. Hiện nay DTT Store có rất nhiều cơ sở trên toàn
+                  quốc hoặc bạn có thể đặt hàng online qua website của DTT Store
                   để có những mẫu mới và hợp với mình nhất.
                 </p>
                 <SocialMedia />
@@ -128,16 +129,16 @@ const Contact = () => {
             <div className={commonStyle.col4}>
               <ul className={styles.accordion}>
                 <li>
-                  <Link to="/contact">Lịch sử hình thành của VH Store</Link>
+                  <Link to="/contact">Lịch sử hình thành của DTT Store</Link>
                   <p className={commonStyle.p}>
-                    VH Store ra đời nhằm khởi đầu ở một cửa hàng nhỏ trên phố Lò
-                    Đúc. VH Store những ngày đầu được gây dựng bởi 4 chàng trai
+                    DTT Store ra đời nhằm khởi đầu ở một cửa hàng nhỏ trên phố Lò
+                    Đúc. DTT Store những ngày đầu được gây dựng bởi 4 chàng trai
                     trẻ tuổi, ôm trong mình hoài bão thay đổi xu hướng thời
                     trang Việt Nam.
                     <br />
                     <br />
                     Bằng đam mê với vest và bằng những cố gắng bền bỉ trong từng
-                    giây phút, VH Store đã tiên phong trong ngành thời trang,
+                    giây phút, DTT Store đã tiên phong trong ngành thời trang,
                     thay đổi tư duy khách hàng, trở thành thương hiệu Việt Nam
                     lớn nhất trong thị phần vest may sẵn, là thương hiệu uy tín
                     về đồ Âu cho nam giới.

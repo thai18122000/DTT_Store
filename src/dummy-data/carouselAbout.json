@@ -2,22 +2,24 @@
   "about": [
     {
       "id": 1,
-      "src": "https://4sale.vn/wp-content/uploads/2021/04/phong-cach-thoi-trang-vintage-quay-lai-manh-me-trong-tinh-hinh-dich-benh-van-con-dang-dien-bien-phuc-tap-xu-huong-vintage-1.jpg",
+      "src": "https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "alt": "first slide",
       "caption": {
         "title": "Bộ sưu tập suit 2021",
         "content": "Lịch lãm làm nên đẳng cấp phái mạnh"
       }
     },
+
     {
       "id": 2,
-      "src": "https://4sale.vn/wp-content/uploads/2021/04/phong-cach-thoi-trang-vintage-quay-lai-manh-me-trong-tinh-hinh-dich-benh-van-con-dang-dien-bien-phuc-tap-xu-huong-vintage-1.jpg",
+      "src": "https://images.pexels.com/photos/1127000/pexels-photo-1127000.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "alt": "second slide1",
       "caption": {
         "title": "Lựa chọn tốt nhất",
         "content": "Miền bắc gió mùa về, mặc gì hôm nay?"
       }
     },
+
     {
       "id": 3,
       "src": "https://style-republik.com/wp-content/uploads/2020/04/hugoboss.jpg",

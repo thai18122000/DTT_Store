@@ -15,8 +15,8 @@ const Footer = () => {
           <Col className={commonStyle.col12}>
             <div className={cx(styles.innerContent, commonStyle.textCenter)}>
               <p className={cx(commonStyle.uppercase, commonStyle.p)}>
-                Bản quyền thuộc về VH Store © 2020  - Design by: Văn Hoàng{" "}
-                <Link to="/" className={commonStyle.cTemplateRed}> VH Store</Link>
+                Bản quyền thuộc về DTT Store © 2020  - Design by: Duy Thái{" "}
+                <Link to="/" className={commonStyle.cTemplateRed}> DTT Store</Link>
               </p>
             </div>
           </Col>

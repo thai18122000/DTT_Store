@@ -18,6 +18,7 @@ const Home = () => {
   return (
     <>
       <Banner datas={dummyCarouselHome.home} />
+
       <div className={styles.latestProducts}>
         <Container>
           <Row>
@@ -43,17 +44,17 @@ const Home = () => {
       <div className={styles.bestFeatures}>
         <Container>
           <Row className={styles.pd60}>
-            <SectionTitle title="Về cửa hàng HT Store" />
+            <SectionTitle title="Về cửa hàng DTT Store" />
             <Col className={commonStyle.col6}>
               <div className={styles.leftContent}>
                 <h4>Bạn đang tìm kiếm những sản phẩm tốt nhất?</h4>
                 <p className={commonStyle.p}>
-                  Ra đời từ 2014, thương hiệu thời trang HT Store xác định sứ
+                  Ra đời từ 2014, thương hiệu thời trang DTT Store xác định sứ
                   mệnh giúp các chàng trai, cô gái trở nên đẹp hơn với phiên bản của
                   chính mình. Ngày nay giới trẻ đang đứng những cơ hội tuyệt
                   vời của xã hội hiện đại, công nghệ thông tin phát triển, cuộc
                   cách mạng của các trang mạng xã hội để khẳng định bản thân.
-                  Bên cạnh đó, HT Store hiểu rằng người trẻ cũng đang phải đối diện
+                  Bên cạnh đó, DTT Store hiểu rằng người trẻ cũng đang phải đối diện
                   với những áp lực, thử thách thôi thúc bản thân phải thể hiên
                   mình so với những người khác..{" "}
                   <Link to="/Contact">Liên hệ</Link> với chúng tôi để biết thêm thông tin.
@@ -89,10 +90,10 @@ const Home = () => {
                 <Row>
                   <Col className={commonStyle.col8}>
                     <h4>
-                      Sáng tạp &amp; độc nhất tại <em>VH </em> Store
+                      Sáng tạo &amp; độc nhất tại <em>DTT </em> Store
                     </h4>
                     <p className={commonStyle.p}>
-                      Nhanh tay đặt hàng để nhận nhiều ưu đãi của HT Store các bạn iuuuu
+                      Nhanh tay đặt hàng để nhận nhiều ưu đãi của DTT Store các bạn iuuuu
                     </p>
                   </Col>
                   <Col className={cx(commonStyle.textRight, commonStyle.col4)}>

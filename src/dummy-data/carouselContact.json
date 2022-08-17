@@ -2,16 +2,16 @@
   "contact": [
     {
       "id": 1,
-      "src": "https://theme.hstatic.net/1000333436/1000696015/14/slideshow_1.jpg?v=631",
+      "src": "https://www.firstclasswatches.co.uk/blog/wp-content/uploads/2018/07/actor-adult-black-and-white-432059.jpg",
       "alt": "first slide",
       "caption": {
-        "title": "HT Store",
+        "title": "DTT Store",
         "content": "Thời trang tạo nên thương hiệu"
       }
     },
     {
       "id": 2,
-      "src": "https://bizweb.dktcdn.net/100/305/277/themes/756519/assets/banner1.jpg?1633151213550",
+      "src": "https://images.pexels.com/photos/6102365/pexels-photo-6102365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "alt": "second slide1",
       "caption": {
         "title": "Noel",
@@ -20,10 +20,10 @@
     },
     {
       "id": 3,
-      "src": "https://dezi.vn/wp-content/uploads/2020/11/banner-web-manh-truong01.png",
+      "src": "https://images.pexels.com/photos/1135531/pexels-photo-1135531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "alt": "third slide",
       "caption": {
-        "title": "HT Store",
+        "title": "DTT Store",
         "content": "Phong cách trẻ trung, năng động"
       }
     }

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imgUrl": "https://cf.shopee.vn/file/c38bdbc92d533b870b654ad004229cd8",
+        "imgUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/450509/item/vngoods_15_450509.jpg?width=1600&impolicy=quality_75",
         "alt": "anhdemo",
         "title": "Áo Len Nữ Cổ Lọ Tay Dài",
         "price": 359.000,
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "imgUrl": "https://my-test-11.slatic.net/p/cb041b1f19503aa8cf004a4ea680e302.jpg_600x600q80.jpg",
+        "imgUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/450509/sub/vngoods_450509_sub2.jpg?width=1600&impolicy=quality_75",
         "alt": "anhdemo",
         "title": "Áo Len Nữ Cổ Lọ Vặn Thừng",
         "price": 459.000,
@@ -22,7 +22,7 @@
     },
     {
         "id": 3,
-        "imgUrl": "https://cf.shopee.vn/file/fd0f409f9950d9433b1c94195cb85b2c",
+        "imgUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/451119/item/vngoods_01_451119.jpg?width=1600&impolicy=quality_75",
         "alt": "anhdemo",
         "title": "Áo Len Nữ Cổ Tròn Thổ Cẩm",
         "price": 499.000,
@@ -33,7 +33,7 @@
     },
     {
         "id": 4,
-        "imgUrl": "https://my-test-11.slatic.net/p/cb041b1f19503aa8cf004a4ea680e302.jpg_600x600q80.jpg",
+        "imgUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/451119/sub/vngoods_451119_sub8.jpg?width=1600&impolicy=quality_75",
         "alt": "anhdemo",
         "title": "Áo Len Nữ Mỏng Tay Lỡ",
         "price": 389.000,
@@ -43,7 +43,7 @@
     },
     {
         "id": 5,
-        "imgUrl": "https://cf.shopee.vn/file/5cadc9ad8c42f7b29ba5225169f52c7d",
+        "imgUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/450503/item/vngoods_18_450503.jpg?width=1600&impolicy=quality_75",
         "alt": "anhdemo",
         "title": "Áo Len Nữ Mỏng Cổ Cao",
         "price": 359.000,
@@ -54,7 +54,7 @@
     },
     {
         "id": 6,
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrC6akKZmFgYEEoi7bOBNl1NTRgW-svKIjEoWIY6E2cRiBQytlePqo7Yel5teTDIoSST0&usqp=CAU",
+        "imgUrl": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/450503/sub/vngoods_450503_sub7.jpg?width=1600&impolicy=quality_75",
         "alt": "anhdemo",
         "title": "Áo Len Nữ Thời Trang",
         "price": 499.000,
