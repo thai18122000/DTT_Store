@@ -1,12 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container } from 'react-bootstrap';
 import { Link, Outlet } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAngleRight } from '@fortawesome/free-solid-svg-icons';
 import Row from '../../components/atoms/Row/Row';
 import Col from '../../components/atoms/Col/Col';
-import StyleProducts from './Products.module.css';
+import './productbk.scss';
+import StyleProducts from './Products.module.scss';
 import Banner from '../../components/molecules/Banner/Banner';
 import dummyCarouselListProduct from '../../dummy-data/carouselListProduct.json';
 
@@ -74,31 +73,6 @@ const Products = () => {
         </Row>
         <Row>
           <Outlet />
-        </Row>
-        <Row>
-          <Col>
-            <div className={StyleProducts.navigate}>
-              <ul className={StyleProducts.pages}>
-                <li className={StyleProducts.active}>
-                  <div style={{ color: 'white' }}>1</div>
-                </li>
-                <li>
-                  <div>2</div>
-                </li>
-                <li>
-                  <div>3</div>
-                </li>
-                <li>
-                  <div>4</div>
-                </li>
-                <li>
-                  <div>
-                    <FontAwesomeIcon icon={faAngleRight} color="#121212" />
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </Col>
         </Row>
       </Container>
     </>

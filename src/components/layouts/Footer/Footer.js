@@ -15,7 +15,7 @@ const Footer = () => {
           <Col className={commonStyle.col12}>
             <div className={cx(styles.innerContent, commonStyle.textCenter)}>
               <p className={cx(commonStyle.uppercase, commonStyle.p)}>
-                Bản quyền thuộc về DTT Store © 2022  - Design by: Duy Thái Trần{" "}
+                Bản quyền thuộc về DTT Store © 2022  - Design by: Duy Thái{" "}
                 <Link to="/" className={commonStyle.cTemplateRed}> DTT Store</Link>
               </p>
             </div>

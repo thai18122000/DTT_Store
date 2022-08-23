@@ -1,6 +1,8 @@
 import { Carousel } from "react-bootstrap";
 import styles from "./Banner.module.css";
 
+
+
 const Banner = (props) => {
   return (
     <Carousel>

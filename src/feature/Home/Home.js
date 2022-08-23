@@ -18,7 +18,6 @@ const Home = () => {
   return (
     <>
       <Banner datas={dummyCarouselHome.home} />
-
       <div className={styles.latestProducts}>
         <Container>
           <Row>
@@ -90,7 +89,7 @@ const Home = () => {
                 <Row>
                   <Col className={commonStyle.col8}>
                     <h4>
-                      Sáng tạo &amp; độc nhất tại <em>DTT </em> Store
+                      Sáng tạp &amp; độc nhất tại <em>DTT </em> Store
                     </h4>
                     <p className={commonStyle.p}>
                       Nhanh tay đặt hàng để nhận nhiều ưu đãi của DTT Store các bạn iuuuu
